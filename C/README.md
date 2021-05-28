@@ -108,7 +108,7 @@ Site: [tutorial](http://www.codebind.com/cprogramming/install-mingw-windows-10-g
 
 Εγώ σε όλα θα χρησιμοποιήσω το **Visual Studio Codium**.
 
-![create_main_c.gif](/extras/blob/main/C/gifs/HelloWorld/compile_main_c.gif)
+![create_main_c.gif](https://github.com/unipi-projects/extras/blob/main/C/gifs/HelloWorld/create_main_c.gif)
 
 Στην συνέχεια γράφουμε τον κώδικα για το **Hello, World!** και κάνουμε Compile.
 Θα ήταν καλό να μην πάρετε **Copy Paste** τον κώδικα, αλλά να τον γράψετε μόνοι σας.
@@ -121,7 +121,7 @@ Site: [tutorial](http://www.codebind.com/cprogramming/install-mingw-windows-10-g
 
 Τέλος για να τρέξουμε το πρόγραμμα γράφουμε **./main** ή **./main.exe**(αν είμαστε από Windows).
 
-![compile_main_c.gif](/home/poa/Documents/Languages/C/gifs/compile_main_c.gif)
+![compile_main_c.gif](https://github.com/unipi-projects/extras/blob/main/C/gifs/HelloWorld/compile_main_c.gif)
 ***
 
 # Types in C
@@ -159,7 +159,7 @@ void main(void)
 }
 ```
 
-![types_c.run.gif](/home/poa/Documents/Languages/C/gifs/types_c_run.gif)
+![types_c.run.gif](https://github.com/unipi-projects/extras/blob/main/C/gifs/Types/types_c_run.gif)
 
 Τώρα στην συνάρτηση `printf()` περνάμε δύο παραμέτρους ένα **string**(κείμενο) και μία μεταβλητή.
 
