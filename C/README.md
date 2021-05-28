@@ -108,7 +108,7 @@ Site: [tutorial](http://www.codebind.com/cprogramming/install-mingw-windows-10-g
 
 Εγώ σε όλα θα χρησιμοποιήσω το **Visual Studio Codium**.
 
-![create_main_c.gif](/C/gifs/create_main_c.gif)
+![create_main_c.gif](/extras/blob/main/C/gifs/HelloWorld/compile_main_c.gif)
 
 Στην συνέχεια γράφουμε τον κώδικα για το **Hello, World!** και κάνουμε Compile.
 Θα ήταν καλό να μην πάρετε **Copy Paste** τον κώδικα, αλλά να τον γράψετε μόνοι σας.
