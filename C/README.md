@@ -117,7 +117,7 @@ Site: [tutorial](http://www.codebind.com/cprogramming/install-mingw-windows-10-g
 
 `gcc main.c -o main`
 
-**Σημείωση**: Στο **Visual Studio Codium** και στο **Visual Studio Code** υπάρχει intergrated terminal. Για να το ενεργοποιήσουμε πατάμε **Ctrl + ~**.
+**Σημείωση**: Στο **Visual Studio Codium** και στο **Visual Studio Code** υπάρχει intergrated terminal. Για να το ενεργοποιήσουμε πατάμε `Ctrl + ~`.
 
 Τέλος για να τρέξουμε το πρόγραμμα γράφουμε **./main** ή **./main.exe**(αν είμαστε από Windows).
 
