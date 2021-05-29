@@ -316,14 +316,14 @@ void main(void)
 {
     int num_of_apples = 5;
 	
-	if (num_of_apples >= 10)
-	{
-		printf("We have a lot of apples\n");
+    if (num_of_apples >= 10)
+    {
+        printf("We have a lot of apples\n");
 	}
-	else
+    else
 	{
-		printf("Unfortunately we don't have a lot of apples\n");
-	}
+	    printf("Unfortunately we don't have a lot of apples\n");
+    }
 }
 
 ```
