@@ -88,3 +88,7 @@ else
 Από όλα τα πάνω συμπαιρένουμε ότι:
 
 Τo **if** λειτουργεί μόνο όταν κάτι είναι **αληθές**.
+
+[Back](https://github.com/unipi-projects/extras/blob/main/Languages/C/BasicOperations/README.md)
+
+[Next](https://github.com/unipi-projects/extras/blob/main/Languages/C/Loops/README.md)
