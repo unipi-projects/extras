@@ -28,7 +28,7 @@ Site: [tutorial](http://www.codebind.com/cprogramming/install-mingw-windows-10-g
 
 Ώστε να σιγουρευτούμε ότι όλα πήγαν καλά. Αν δεν βγάλει την έκδωση (δλδ έναν αριθμό) του gcc τότε κάπου έχει γίνει λάθος.
 
-***
+
 # Installing IDE or Text Editor
 
 Για την δημιουργία προγραμμάτων σε **C** χρησιμοποιούμε είτε έναν **IDE** είτε έναν **Text Editor**.
@@ -52,4 +52,6 @@ Site: [tutorial](http://www.codebind.com/cprogramming/install-mingw-windows-10-g
 
 **Σημείωση**: Όλα τα Text Editors που αναφέρθηκαν είναι δωρεάν. Υπάρχουν προφανώς πολλά περισσότερα, αλλά νομίζω ένα από αυτά τα πέντε αρκούν. Επίσης θα ήταν καλό να δείτε πως να σετάρετε τον Text Editor της επιλογής σας για **C**. Πχ για το **Visual Studio Code** η διαδικασία είναι [αυτή](https://code.visualstudio.com/docs/languages/cpp).
 
-***
+[Back](https://github.com/unipi-projects/extras/blob/main/Languages/C/HelloWorld/README.md)
+
+[Next](https://github.com/unipi-projects/extras/blob/main/Languages/C/Compiling/README.md)
