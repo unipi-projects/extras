@@ -5,7 +5,7 @@
 
 ## Programming Languages
 
-* [C](https://github.com/unipi-projects/extras/blob/main/C/README.md) 
+* [C](https://github.com/unipi-projects/extras/blob/main/Languages/C/README.md) 
 
 ## Frameworks
 
