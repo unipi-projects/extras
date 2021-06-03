@@ -52,9 +52,9 @@ void main(void)
 
 	for(int i = 0; i < 10; ++i)
 	{
-		num += 5;		// increment num by 5 each iteration
-		printf("i = %d", i);
-		printf(" num = %d\n", num);
+            num += 5;		// increment num by 5 each iteration
+	    printf("i = %d", i);
+	    printf(" num = %d\n", num);
 	}
 }
 ```
