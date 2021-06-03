@@ -26,11 +26,11 @@ void main(void)
 
 	while(i < 5)
 	{
-		num += 5;	// increment num by 5 each iteration
-		++i;		// increment i each iteration
+	    num += 5;	// increment num by 5 each iteration
+	    ++i;		// increment i each iteration
 
-		printf("i = %d", i);
-		printf(" num = %d\n", num);
+	    printf("i = %d", i);
+	    printf(" num = %d\n", num);
 	}
 }
 ```
