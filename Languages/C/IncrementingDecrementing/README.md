@@ -10,3 +10,7 @@
 | -=					   | Μειώνουμε την τιμή κατά μία τιμή| i -= 2     |
 
 **Σημείωση**: Οι περιπτώσεις `++` και `--` είναι ειδικές καθώς μπορούν να γραφτούν και `i++` ή `i--`. Αλλά την διαφορά τους θα την μάθουμε άλλη στιγμή.
+
+[Back](https://github.com/unipi-projects/extras/blob/main/Languages/C/Loops/README.md)
+
+[Next](https://github.com/unipi-projects/extras/blob/main/Languages/C/Scope/README.md)
