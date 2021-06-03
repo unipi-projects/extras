@@ -33,7 +33,7 @@ void main(void)
 }
 ```
 
-![types_c.run.gif](https://github.com/unipi-projects/extras/blob/main/C/gifs/Types/types_c_run.gif)
+![types_c.run.gif](https://github.com/unipi-projects/extras/blob/main/Languages/C/gifs/Types/types_c_run.gif)
 
 Τώρα στην συνάρτηση `printf()` περνάμε δύο παραμέτρους ένα **string**(κείμενο) και μία μεταβλητή.
 
@@ -70,3 +70,6 @@ printf("a =  %d\n", a);
 ```C
 printf("a = 7 and b = 18.5\n"); 	// wrong, use variables
 ```
+[Back](https://github.com/unipi-projects/extras/blob/main/Languages/C/Compiling/README.md)
+
+[Next](https://github.com/unipi-projects/extras/blob/main/Languages/C/BasicOperations/README.md)
