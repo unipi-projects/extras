@@ -27,9 +27,9 @@ void main(void)
     if (num_of_apples >= 10)
     {
         printf("We have a lot of apples\n");
-	}
+    }
     else
-	{
+    {
 	    printf("Unfortunately we don't have a lot of apples\n");
     }
 }
@@ -45,7 +45,7 @@ void main(void)
 ```C
 if(expression)
 {
-	// do something
+    // do something
 }
 
 ```
@@ -56,11 +56,11 @@ if(expression)
 ```C
 if(expression)
 {
-	// do something
+    // do something
 }
 else
 {
-	// do something else
+    // do something else
 }
 
 ```
@@ -71,15 +71,15 @@ else
 ```C
 if(expression)
 {
-	// do something
+    // do something
 }
 else if(expression)
 {
-	// do something different
+    // do something different
 }
 else
 {
-	// do something else
+    // do something else
 }
 
 ```
