@@ -9,8 +9,8 @@
 ```C
 if(num > 10)
 {
-	int x = 5;
-	printf("x = %d\n", x); // x exist in this scope
+    int x = 5;
+    printf("x = %d\n", x); // x exist in this scope
 }
 printf("x = %d\n", x);  // Error x doesn't exist here.
 
@@ -26,8 +26,8 @@ printf("x = %d\n", x);  // Error x doesn't exist here.
 int x;
 if(num > 10)
 {
-	x = 5;
-	printf("x = %d\n", x); // can access x within this scope
+    x = 5;
+    printf("x = %d\n", x); // can access x within this scope
 }
 printf("x = %d\n", x);  // can access x here too
 
@@ -46,16 +46,16 @@ printf("x = %d\n", x);  // can access x here too
 
 void main(void)
 {
-	int damage = 10;
-	int health = 50;
+    int damage = 10;
+    int health = 50;
 
-	if (health < 0)
-	{
-		printf("Health is bellow zero\n");
-		printf("Damage done = %d\n", damage);
-	}
-	printf("Damage = %d\n", damage);
-	printf("Health = %d\n", health);
+    if (health < 0)
+    {
+        printf("Health is bellow zero\n");
+	printf("Damage done = %d\n", damage);
+    }
+    printf("Damage = %d\n", damage);
+    printf("Health = %d\n", health);
 }
 
 ```
@@ -69,15 +69,15 @@ void main(void)
 
 void main(void)
 {
-	int budget = 100;
-	int cost = 30;
+    int budget = 100;
+    int cost = 30;
 
-	if(budget - cost > 50)
-	{
-		int new_budget = budget - cost;
-	}
+    if(budget - cost > 50)
+    {
+	int new_budget = budget - cost;
+    }
 
-	printf("New budget = %d\n", new_budget);
+    printf("New budget = %d\n", new_budget);
 
 }
 
