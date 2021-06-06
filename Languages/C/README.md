@@ -13,3 +13,4 @@
 * [Loops](https://github.com/unipi-projects/extras/blob/main/Languages/C/Loops/README.md)
 * [Incrementing-Decrementing](https://github.com/unipi-projects/extras/blob/main/Languages/C/IncrementingDecrementing/README.md)
 * [Scope](https://github.com/unipi-projects/extras/blob/main/Languages/C/Scope/README.md)
+* [Funcitons]
