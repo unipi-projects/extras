@@ -25,6 +25,6 @@
 
 ![compile_main_c.gif](https://github.com/unipi-projects/extras/blob/main/Languages/C/gifs/HelloWorld/compile_main_c.gif)
 
-[Back](https://github.com/unipi-projects/extras/blob/main/Languages/C/InstallingCompiler/README.md)
+[Back: Compiling Code](https://github.com/unipi-projects/extras/blob/main/Languages/C/InstallingCompiler/README.md)
 
-[Next](https://github.com/unipi-projects/extras/blob/main/Languages/C/Types/README.md)
+[Next: Types](https://github.com/unipi-projects/extras/blob/main/Languages/C/Types/README.md)
