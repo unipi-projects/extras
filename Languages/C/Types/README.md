@@ -70,6 +70,6 @@ printf("a =  %d\n", a);
 ```C
 printf("a = 7 and b = 18.5\n"); 	// wrong, use variables
 ```
-[Back](https://github.com/unipi-projects/extras/blob/main/Languages/C/Compiling/README.md)
+[Back: Types](https://github.com/unipi-projects/extras/blob/main/Languages/C/Compiling/README.md)
 
-[Next](https://github.com/unipi-projects/extras/blob/main/Languages/C/BasicOperations/README.md)
+[Next: Basic Operations](https://github.com/unipi-projects/extras/blob/main/Languages/C/BasicOperations/README.md)
