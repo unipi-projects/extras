@@ -52,6 +52,6 @@ Site: [tutorial](http://www.codebind.com/cprogramming/install-mingw-windows-10-g
 
 **Σημείωση**: Όλα τα Text Editors που αναφέρθηκαν είναι δωρεάν. Υπάρχουν προφανώς πολλά περισσότερα, αλλά νομίζω ένα από αυτά τα πέντε αρκούν. Επίσης θα ήταν καλό να δείτε πως να σετάρετε τον Text Editor της επιλογής σας για **C**. Πχ για το **Visual Studio Code** η διαδικασία είναι [αυτή](https://code.visualstudio.com/docs/languages/cpp).
 
-[Back](https://github.com/unipi-projects/extras/blob/main/Languages/C/HelloWorld/README.md)
+[Back: Hello, World!](https://github.com/unipi-projects/extras/blob/main/Languages/C/HelloWorld/README.md)
 
-[Next](https://github.com/unipi-projects/extras/blob/main/Languages/C/Compiling/README.md)
+[Next: Compiling Code](https://github.com/unipi-projects/extras/blob/main/Languages/C/Compiling/README.md)
