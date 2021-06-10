@@ -83,6 +83,6 @@ void main(void)
 
 ```
 
-[Back](https://github.com/unipi-projects/extras/blob/main/Languages/C/IncrementingDecrementing/README.md)
+[Back: Incrementing-Decrementing](https://github.com/unipi-projects/extras/blob/main/Languages/C/IncrementingDecrementing/README.md)
 
-[Next](https://github.com/unipi-projects/extras/blob/main/Languages/C/Functions/README.md)
+[Next: Funcitons](https://github.com/unipi-projects/extras/blob/main/Languages/C/Functions/README.md)
