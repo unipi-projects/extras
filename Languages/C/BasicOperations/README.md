@@ -87,6 +87,6 @@ printf("result_mod = %d\n", result_mod);	// print the result of the modulo
 
 ![operation.png](https://github.com/unipi-projects/extras/blob/main/Languages/C/img/BasicOperations/operations.png)
 
-[Back](https://github.com/unipi-projects/extras/blob/main/Languages/C/Types/README.md)
+[Back: Basic Operations](https://github.com/unipi-projects/extras/blob/main/Languages/C/Types/README.md)
 
-[Next](https://github.com/unipi-projects/extras/blob/main/Languages/C/ConditionsAndControlFlow/README.md)
+[Next: Conditions and Control Flow](https://github.com/unipi-projects/extras/blob/main/Languages/C/ConditionsAndControlFlow/README.md)
