@@ -65,6 +65,6 @@ void main(void)
 
 Την επανάληψη αυτή είναι καλό να την αποφεύγουμε. Γενικά στην θέση της είναι καλύτερο να χρησιμοποιούμε την **while**.
 
-[Back](https://github.com/unipi-projects/extras/blob/main/Languages/C/ConditionsAndControlFlow/README.md)
+[Back: Conditions and Control Flow](https://github.com/unipi-projects/extras/blob/main/Languages/C/ConditionsAndControlFlow/README.md)
 
-[Next](https://github.com/unipi-projects/extras/blob/main/Languages/C/IncrementingDecrementing/README.md)
+[Next: Incrementing-Decrementing](https://github.com/unipi-projects/extras/blob/main/Languages/C/IncrementingDecrementing/README.md)
