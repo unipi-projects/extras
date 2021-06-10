@@ -40,6 +40,6 @@ H **C** είναι function-based γλώσσα προγραμματισμού. �
 Εδώ χρησιμοποιούμε την συνάρτηση `printf()` και της περνάμε μία παράμετρο. Η δουλειά της είναι να εκτυπώσει αυτό το μύνημα στην οθόνη του υπολογιστή. Η συνάρτηση αυτή είναι έτοιμη και υπάρχει στην βιβλιοθήκη **stdio** οπότε για να την χρησιμοποιήσουμε πρέπει να περιλλάβουμε την βιβλιοθήκη αυτή στο πρόγραμμα μας.
 
 ***
-[Back](https://github.com/unipi-projects/extras/blob/main/Languages/C/README.md)
+[Back: Index](https://github.com/unipi-projects/extras/blob/main/Languages/C/README.md)
 
-[Next](https://github.com/unipi-projects/extras/blob/main/Languages/C/InstallingCompiler/README.md)
+[Next: Installing a Compiler](https://github.com/unipi-projects/extras/blob/main/Languages/C/InstallingCompiler/README.md)
