@@ -89,6 +89,6 @@ else
 
 Τo **if** λειτουργεί μόνο όταν κάτι είναι **αληθές**.
 
-[Back](https://github.com/unipi-projects/extras/blob/main/Languages/C/BasicOperations/README.md)
+[Back: Conditions and Control Flow](https://github.com/unipi-projects/extras/blob/main/Languages/C/BasicOperations/README.md)
 
-[Next](https://github.com/unipi-projects/extras/blob/main/Languages/C/Loops/README.md)
+[Next: Loops](https://github.com/unipi-projects/extras/blob/main/Languages/C/Loops/README.md)
