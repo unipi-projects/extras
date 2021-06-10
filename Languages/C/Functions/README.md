@@ -235,4 +235,4 @@ void HealthUp(void)
 }
 ```
 
-[Back](https://github.com/unipi-projects/extras/blob/main/Languages/C/Scope/README.md)
+[Back: Scope](https://github.com/unipi-projects/extras/blob/main/Languages/C/Scope/README.md)
