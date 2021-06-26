@@ -121,7 +121,7 @@ int Sub(int x, int y)
 int Add(int x, int y);
 int Sub(int x, int y);
 
-void main(void)
+void main(void) 
 {
 	int x = 10;
 	int y = 8;
