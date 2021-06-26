@@ -41,7 +41,7 @@ int Add(int x, int y)
 
 int Sub(int x, int y)
 {
-	return x - y;
+	return x - y; 
 }
 
 void main(void)
