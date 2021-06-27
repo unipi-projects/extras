@@ -51,6 +51,4 @@
 
 Τώρα αν πάμε στο Github θα δούμε ότι το repo μας έχει ένα αρχείο με όνομα **README.md**. Επίσης πάνω δεξιά λέει **Latest commit**. Αυτό είναι το τελευταίο commit που κάναμε και έχει ένα κλειδί ώστε να μπορούμε να τα ξεχωρίζουμε καθώς αργότερα σίγουρα θα κάνουμε πάνω από ένα commit την ημέρα.
 
-[Back]()
-
-[Next]()
+[Back](https://github.com/unipi-projects/extras/blob/main/Other/Git/Introduction%20to%20Github/README.md)
