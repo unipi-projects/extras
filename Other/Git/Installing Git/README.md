@@ -28,6 +28,6 @@ brew install git
 ```bash
 git --version
 ```
-[Back]()
+[Back](https://github.com/unipi-projects/extras/blob/main/Other/Git/README.md)
 
-[Next]()
+[Next](https://github.com/unipi-projects/extras/blob/main/Other/Git/Introduction%20to%20Github/README.md)
