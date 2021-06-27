@@ -16,6 +16,6 @@
 
 * **Pull requests**: Η δημιουργία ενός pull request είναι ουσιαστικά η αποστολή των, αλλαγών που κάναμε στον κώδικα μας, για έγκριση από άλλους προγραμματιστές.
 
-[Back]()
+[Back](https://github.com/unipi-projects/extras/blob/main/Other/Git/Installing%20Git/README.md)
 
-[Next]()
+[Next](https://github.com/unipi-projects/extras/blob/main/Other/Git/Setting%20up%20a%20GitHub%20Repository/README.md)
