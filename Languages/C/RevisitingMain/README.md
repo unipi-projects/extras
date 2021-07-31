@@ -25,6 +25,6 @@ int main(void)
 
 Πλέον την `main` θα την ορίζουμε τύπου `int`.
 
-[Back](https://github.com/unipi-projects/extras/blob/main/Languages/C/Functions/README.md)
+[Back: Functions](https://github.com/unipi-projects/extras/blob/main/Languages/C/Functions/README.md)
 
-[Next]()
+[Next: Revisiting Types](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingTypes/README.md)
