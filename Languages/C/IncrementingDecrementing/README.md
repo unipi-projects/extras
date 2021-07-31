@@ -36,7 +36,7 @@ int main(void)
     temp = ++x;	// x now equals to 6 and we return 6
     printf("temp = ++x : %d", temp);  // result is 6
 	
-    temp = y++;  // y is equal to 5 but we return 4
+    temp = y++;  // y now equals to 5 but we return 4
     printf("temp = x++ : %d", temp);  // result is 4
 }
 ```
