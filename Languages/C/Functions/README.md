@@ -17,14 +17,14 @@
 
 void main(void)
 {
-	int x = 10;
-	int y = 8;
+    int x = 10;
+    int y = 8;
 
-	int result_addition = x + y;
-	int result_sub = x - y;
+    int result_addition = x + y;
+    int result_sub = x - y;
 
-	printf("x + y = %d\n", result_addition);	// 18
-	printf("x - y = %d\n", result_sub);			// 2
+    printf("x + y = %d\n", result_addition);    // 18
+    printf("x - y = %d\n", result_sub);         // 2
 }
 ```
 
@@ -36,21 +36,21 @@ void main(void)
 // add two numbers and return the result
 int Add(int x, int y)
 {
-	return x + y;
+    return x + y;
 }
 
 int Sub(int x, int y)
 {
-	return x - y; 
+    return x - y; 
 }
 
 void main(void)
 {
-	int x = 10;
-	int y = 8;
+    int x = 10;
+    int y = 8;
 
-	printf("x + y = %d\n", Add(x, y));		// 18
-	printf("x - y = %d\n", Sub(x, y));		// 2
+    printf("x + y = %d\n", Add(x, y));		// 18
+    printf("x - y = %d\n", Sub(x, y));		// 2
 }
 ```
 
@@ -83,22 +83,22 @@ void main(void)
 
 void main(void)
 {
-	int x = 10;
-	int y = 8;
+    int x = 10;
+    int y = 8;
 
-	printf("x + y = %d\n", Add(x, y));		// 18
-	printf("x - y = %d\n", Sub(x, y));		// 2
+    printf("x + y = %d\n", Add(x, y));		// 18
+    printf("x - y = %d\n", Sub(x, y));		// 2
 }
 
 // add two numbers and return the result
 int Add(int x, int y)
 {
-	return x + y;
+    return x + y;
 }
 
 int Sub(int x, int y)
 {
-	return x - y;
+    return x - y;
 }
 ```
 
@@ -123,22 +123,22 @@ int Sub(int x, int y);
 
 void main(void) 
 {
-	int x = 10;
-	int y = 8;
+    int x = 10;
+    int y = 8;
 
-	printf("x + y = %d\n", Add(x, y));		// 18
-	printf("x - y = %d\n", Sub(x, y));		// 2
+    printf("x + y = %d\n", Add(x, y));		// 18
+    printf("x - y = %d\n", Sub(x, y));		// 2
 }
 
 // add two numbers and return the result
 int Add(int x, int y)
 {
-	return x + y;
+    return x + y;
 }
 
 int Sub(int x, int y)
 {
-	return x - y;
+    return x - y;
 }
 ```
 
@@ -166,25 +166,26 @@ int TookDamage(int health, int damage);
 
 void main(void)
 {
-	int health = 100;
-	int damage = 20;
-	printf("Current player's health: %d\n", health);
-	printf("Player took damage!\n");
-	printf("Player's health dropped to: %d\n", TookDamage(health, damage));
+    int health = 100;
+    int damage = 20;
+    printf("Current player's health: %d\n", health);
+    printf("Player took damage!\n");
+    printf("Player's health dropped to: %d\n", TookDamage(health, damage));
 }
 
 // Updating players health
 int TookDamage(int health, int damage)
 {
-	int new_health;
-	// check if health falls bellow zero
-	if((health - damage) < 0)
-	{
-		new_health = 0;
-		return new_health;	// in this case just return 0 for health
-	}
-	new_health = health - damage;
-	return new_health;
+    int new_health;
+    
+    // check if health falls bellow zero
+    if((health - damage) < 0)
+    {
+        new_health = 0;
+        return new_health;	// in this case just return 0 for health
+    }
+    new_health = health - damage;
+    return new_health;
 }
 ```
 
@@ -207,17 +208,17 @@ int TookDamage(int health, int damage)
 ```C
 int Run(int speed)
 {
-	// code
+    // code
 }
 
 float Sub(float x, float y)
 {
-	// code
+    // code
 }
 
 void Super(int health, int power, int speed, int stamina, int intellect)
 {
-	// code
+    // code
 }
 ```
 
@@ -226,12 +227,12 @@ void Super(int health, int power, int speed, int stamina, int intellect)
 ```C
 int PowerUp(void)
 {
-	// code
+    // code
 }
 
 void HealthUp(void)
 {
-	// code
+    // code
 }
 ```
 
