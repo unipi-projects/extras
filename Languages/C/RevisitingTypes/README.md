@@ -61,7 +61,7 @@ int main(void)
 
 
 /*
-    First example defining bool ourselves
+    Second example defining bool ourselves
 */
 #include <stdio.h>
 
