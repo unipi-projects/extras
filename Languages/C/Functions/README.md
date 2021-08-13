@@ -102,7 +102,7 @@ int Sub(int x, int y)
 }
 ```
 
-![warnings.png](https://github.com/unipi-projects/extras/blob/main/Languages/C/img/Functions/warnings.png)
+![warnings.png](https://github.com/unipi-projects/extras/blob/main/Languages/C/img/Functions/warning.png)
 
 Όπως βλέπουμε τώρα έχουμε κάποια **Warnings**. Γενικά έχει σημασία η σειρά δήλωσης των συναρτήσεων.
 
