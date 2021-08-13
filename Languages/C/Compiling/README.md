@@ -10,7 +10,7 @@
 
 Εγώ σε όλα θα χρησιμοποιήσω το **Visual Studio Codium**.
 
-![create_main_c.gif](https://github.com/unipi-projects/extras/blob/main/Languages/C/gifs/HelloWorld/creating_main.gif)
+![creating_main.gif](https://github.com/unipi-projects/extras/blob/main/Languages/C/gifs/HelloWorld/creating_main.gif)
 
 Στην συνέχεια γράφουμε τον κώδικα για το **Hello, World!** και κάνουμε Compile.
 Θα ήταν καλό να μην πάρετε **Copy Paste** τον κώδικα, αλλά να τον γράψετε μόνοι σας.
@@ -23,7 +23,7 @@
 
 Τέλος για να τρέξουμε το πρόγραμμα γράφουμε **./main** ή **./main.exe**(αν είμαστε από Windows).
 
-![compile_main_c.gif](https://github.com/unipi-projects/extras/blob/main/Languages/C/gifs/HelloWorld/compile_main_c.gif)
+![compiling_main.gif](https://github.com/unipi-projects/extras/blob/main/Languages/C/gifs/HelloWorld/compiling_main.gif)
 
 [Back: Compiling Code](https://github.com/unipi-projects/extras/blob/main/Languages/C/InstallingCompiler/README.md)
 
