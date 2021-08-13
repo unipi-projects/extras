@@ -85,7 +85,7 @@ printf("result_mod = %d\n", result_mod);	// print the result of the modulo
 Πιστεύω ότι μέχρι τώρα έχετε μάθει να κάνετε **compile** ένα αρχείο όποτε πάω κατευθείαν στο αποτέλεσμα. Αν βάλατε τους ίδιους αριθμούς με εμένα τα αποτελέσματα είναι τα εξής:
 
 
-<!-- ![operation.png](https://github.com/unipi-projects/extras/blob/main/Languages/C/img/BasicOperations/operations.png) -->
+![operation.png](https://github.com/unipi-projects/extras/blob/main/Languages/C/img/BasicOperations/compile_operations.png)
 
 [Back: Basic Operations](https://github.com/unipi-projects/extras/blob/main/Languages/C/Types/README.md)
 
