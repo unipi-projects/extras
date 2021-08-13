@@ -33,7 +33,7 @@ void main(void)
 }
 ```
 
-![types_c.run.gif](https://github.com/unipi-projects/extras/blob/main/Languages/C/gifs/Types/types_c_run.gif)
+![types_c.run.gif](https://github.com/unipi-projects/extras/blob/main/Languages/C/gifs/Types/compile.gif)
 
 Τώρα στην συνάρτηση `printf()` περνάμε δύο παραμέτρους ένα **string**(κείμενο) και μία μεταβλητή.
 
