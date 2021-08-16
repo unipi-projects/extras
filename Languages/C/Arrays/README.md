@@ -213,4 +213,4 @@ void SelectionSort(int array[], int length_of_array)
 ```
 Προφανώς το αποτέλεσμα και στις δύο περιπτώσεις είναι ίδιο.
 
-![selection_sort.png](/home/apo/Documents/Languages/C/img/Arrays/selection_sort.png)
+![selection_sort.png](https://github.com/unipi-projects/extras/blob/main/Languages/C/img/Arrays/selection_sort.png)
