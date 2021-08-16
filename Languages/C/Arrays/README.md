@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
+
 # Arrays
 
 Οι πίνακες είναι ένας εύκολος τρόπος να "μαζέψουμε" πολλές τιμές σε ένα μέρος. Για παράδειγμα αν έχουμε δημιουργήσει ένα παιχνίδι το οποίο έχει αρκετούς Players και εμείς θέλουμε να κρατάμε το **Score** του **κάθε** Player δεν βγάζει νοήμα να έχουμε μία μεταβλητή για κάθε Score.
@@ -214,3 +216,4 @@ void SelectionSort(int array[], int length_of_array)
 Προφανώς το αποτέλεσμα και στις δύο περιπτώσεις είναι ίδιο.
 
 ![selection_sort.png](https://github.com/unipi-projects/extras/blob/main/Languages/C/img/Arrays/selection_sort.png)
+
