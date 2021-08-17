@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
-
 # Arrays
 
 Οι πίνακες είναι ένας εύκολος τρόπος να "μαζέψουμε" πολλές τιμές σε ένα μέρος. Για παράδειγμα αν έχουμε δημιουργήσει ένα παιχνίδι το οποίο έχει αρκετούς Players και εμείς θέλουμε να κρατάμε το **Score** του **κάθε** Player δεν βγάζει νοήμα να έχουμε μία μεταβλητή για κάθε Score.
@@ -44,18 +42,18 @@ int main(void)
 
 ##  Multidimensional Arrays
 
-Μέχρι στιγμής έχουμε δει πίνακες με μία διάσταση αλλά υπάρχουν και πίνακες με παραπάνω διαστάσιες όπως $2$ διαστάσεων, $3$ διαστάσεων και $4$ διαστάσεων.
+Μέχρι στιγμής έχουμε δει πίνακες με μία διάσταση αλλά υπάρχουν και πίνακες με παραπάνω διαστάσιες όπως <img src="https://render.githubusercontent.com/render/math?math=2"> διαστάσεων, <img src="https://render.githubusercontent.com/render/math?math=3"> διαστάσεων και <img src="https://render.githubusercontent.com/render/math?math=4"> διαστάσεων κτλ.
 
-Γενικά πάνω από $2$ διαστάσεων πίνακες δεν συνηθίζουμε να χρησιμοποιούμαι.
+Γενικά πάνω από <img src="https://render.githubusercontent.com/render/math?math=2"> διαστάσεων πίνακες δεν συνηθίζουμε να χρησιμοποιούμαι.
 
-Στην **C** μπορούμε πολύ εύκολα να δημιουργήσουμε έναν πίνακα $2$ διαστάσεων, η σύνταξη είναι πολύ παρόμοια με την σύνταξη για την δημιουργία ενός μονοδιάστατου πίνακα.
+Στην **C** μπορούμε πολύ εύκολα να δημιουργήσουμε έναν πίνακα <img src="https://render.githubusercontent.com/render/math?math=2"> διαστάσεων, η σύνταξη είναι πολύ παρόμοια με την σύνταξη για την δημιουργία ενός μονοδιάστατου πίνακα.
 
 ```C
 // creating a 2 dimensional array
 int checkboard[8][8]
 ```
 
-Μπορούμε να σκεφτούμε τους δισδιάστατους πίνακες ώς μία σκακιέρα με $x$ γραμμές και $y$ στήλες. Στην περίπτωση μας φτιάξαμε έναν πίνακα με $8$ γραμμές και $8$ στήλες.
+Μπορούμε να σκεφτούμε τους δισδιάστατους πίνακες ώς μία σκακιέρα με <img src="https://render.githubusercontent.com/render/math?math=x"> γραμμές και <img src="https://render.githubusercontent.com/render/math?math=y"> στήλες. Στην περίπτωση μας φτιάξαμε έναν πίνακα με <img src="https://render.githubusercontent.com/render/math?math=8"> γραμμές και <img src="https://render.githubusercontent.com/render/math?math=8"> στήλες.
 
 ## Arrays as Function Arguments
 
@@ -216,4 +214,3 @@ void SelectionSort(int array[], int length_of_array)
 Προφανώς το αποτέλεσμα και στις δύο περιπτώσεις είναι ίδιο.
 
 ![selection_sort.png](https://github.com/unipi-projects/extras/blob/main/Languages/C/img/Arrays/selection_sort.png)
-
