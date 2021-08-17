@@ -9,15 +9,15 @@
 ```C
 int main(void)
 {
-	// create an array to hold the score of each player
+    // create an array to hold the score of each player
     int score_of_players[50];
 	
-	// insert the score of PLayer1 to the array
-	score_of_players[0] = 264;
+    // insert the score of PLayer1 to the array
+    score_of_players[0] = 264;
+
+    int player1_score = score_of_players[0]; 
 	
-	int player1_score = score_of_players[0]; 
-	
-	return 0;
+    return 0;
 }
 ```
 
@@ -94,7 +94,7 @@ int main(void)
     int score[] = {130, 46, 149};
 
     // calling Something function and passing the second value of 
-	  // the score array
+    // the score array
     Something(score[1]);
 }
 
@@ -167,7 +167,7 @@ void SelectionSort(int array[], int length_of_array)
         int small = i;
         for(int j = i + 1; j < length_of_array; ++j)
         {
-	          // Find the smallest element of the array
+            // Find the smallest element of the array
             if(array[j] < array[small]) 
             {
                 small = j;
@@ -176,7 +176,7 @@ void SelectionSort(int array[], int length_of_array)
 
         if(small != i)
         {
-	          Swap(&array[i], &array[small]); // Call function to swap the values
+            Swap(&array[i], &array[small]); // Call function to swap the values
         }
     }
 }
