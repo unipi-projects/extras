@@ -42,7 +42,7 @@ int main(void)
 
 ##  Multidimensional Arrays
 
-Μέχρι στιγμής έχουμε δει πίνακες με μία διάσταση αλλά υπάρχουν και πίνακες με παραπάνω διαστάσιες όπως <img src="https://render.githubusercontent.com/render/math?math=2"> διαστάσεων, <img src="https://render.githubusercontent.com/render/math?math=3"> διαστάσεων και <img src="https://render.githubusercontent.com/render/math?math=4"> διαστάσεων κτλ.
+Μέχρι στιγμής έχουμε δει πίνακες με μία διάσταση αλλά υπάρχουν και πίνακες με παραπάνω διαστάσιες όπως <img src="https://render.githubusercontent.com/render/math?math=2"> διαστάσεων, <img src="https://render.githubusercontent.com/render/math?math=3"> διαστάσεων, <img src="https://render.githubusercontent.com/render/math?math=4"> διαστάσεων κτλ.
 
 Γενικά πάνω από <img src="https://render.githubusercontent.com/render/math?math=2"> διαστάσεων πίνακες δεν συνηθίζουμε να χρησιμοποιούμαι.
 
