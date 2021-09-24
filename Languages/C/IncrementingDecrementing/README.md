@@ -37,10 +37,10 @@ int main(void)
     printf("temp = ++x : %d", temp);  // result is 6
 	
     temp = y++;  // y now equals to 5 but we return 4
-    printf("temp = x++ : %d", temp);  // result is 4
+    printf("temp = y++ : %d", temp);  // result is 4
 }
 ```
-Είναι αρκετά απλό στην λογική και προφανώς το αντίστοιχο ισχύει και για **pre-devrementing** και **post-decrementing**.
+Είναι αρκετά απλό στην λογική και προφανώς το αντίστοιχο ισχύει και για **pre-decrementing** και **post-decrementing**.
 
 [Back: Loops](https://github.com/unipi-projects/extras/blob/main/Languages/C/Loops/README.md)
 
