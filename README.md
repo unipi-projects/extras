@@ -12,3 +12,5 @@
 
 ## Other
 * [Git](https://github.com/unipi-projects/extras/blob/main/Other/Git/README.md)
+
+* [Ventoy](https://github.com/unipi-projects/extras/blob/main/Other/Ventoy/README.md)
