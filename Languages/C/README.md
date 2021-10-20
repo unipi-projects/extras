@@ -16,3 +16,4 @@
 * [Functions](https://github.com/unipi-projects/extras/blob/main/Languages/C/Functions/README.md)
 * [Revisiting Main](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingMain/README.md)
 * [Revisiting Types](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingTypes/README.md)
+* [Arrays](https://github.com/unipi-projects/extras/blob/main/Languages/C/Arrays/README.md)
