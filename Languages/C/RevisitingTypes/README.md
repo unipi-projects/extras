@@ -13,9 +13,11 @@
 ```C
 short a = 32767;
 int b = 65468;
-long c = 2147483647;
-long long d = 2147483647;
+long c = 2147483647; // 2,147,483,647
+long long d = 9223372036854775807; // 9,223,372,036,854,775,807
 ```
+
+**Σημείωση**: Οι από πάνω τύποι είναι όλοι `signed`. Για την ώρα δεν είναι ανάγκη κάποιος να γνωρίζει τους `unsigned`.
 
 Οι μεταβλητές τύπου `float` μπορούν να έχουν τους ακόλουθους τύπους:
 
@@ -87,3 +89,5 @@ int main(void)
 **Σημείωση**: Αν και είναι πολύ εύκολο να δημιουργήσουμε το δικό μας bool είναι καλύτερο να χρησιμοποιήσουμε την βιβλιοθήκη `stdbool.h`.
 
 [Back: Revisiting Main](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingMain/README.md)
+[Next: Arrays](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingMain/README.md)
+
