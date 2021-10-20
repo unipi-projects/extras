@@ -90,4 +90,4 @@ int main(void)
 
 [Back: Revisiting Main](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingMain/README.md)
 
-[Next: Arrays](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingMain/README.md)
+[Next: Arrays](https://github.com/unipi-projects/extras/blob/main/Languages/C/Arrays/README.md)
