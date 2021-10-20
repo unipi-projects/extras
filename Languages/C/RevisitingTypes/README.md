@@ -89,5 +89,5 @@ int main(void)
 **Σημείωση**: Αν και είναι πολύ εύκολο να δημιουργήσουμε το δικό μας bool είναι καλύτερο να χρησιμοποιήσουμε την βιβλιοθήκη `stdbool.h`.
 
 [Back: Revisiting Main](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingMain/README.md)
-[Next: Arrays](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingMain/README.md)
 
+[Next: Arrays](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingMain/README.md)
