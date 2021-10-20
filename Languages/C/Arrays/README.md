@@ -9,15 +9,15 @@
 ```C
 int main(void)
 {
-    // create an array to hold the score of each player
+	// create an array to hold the score of each player
     int score_of_players[50];
 	
-    // insert the score of PLayer1 to the array
-    score_of_players[0] = 264;
-
-    int player1_score = score_of_players[0]; 
+	// insert the score of PLayer1 to the array
+	score_of_players[0] = 264;
 	
-    return 0;
+	int player1_score = score_of_players[0]; 
+	
+	return 0;
 }
 ```
 
@@ -42,22 +42,22 @@ int main(void)
 
 ##  Multidimensional Arrays
 
-Μέχρι στιγμής έχουμε δει πίνακες με μία διάσταση αλλά υπάρχουν και πίνακες με παραπάνω διαστάσιες όπως <img src="https://render.githubusercontent.com/render/math?math=2"> διαστάσεων, <img src="https://render.githubusercontent.com/render/math?math=3"> διαστάσεων, <img src="https://render.githubusercontent.com/render/math?math=4"> διαστάσεων κτλ.
+Μέχρι στιγμής έχουμε δει πίνακες με μία διάσταση αλλά υπάρχουν και πίνακες με παραπάνω διαστάσιες όπως $2$ διαστάσεων, $3$ διαστάσεων και $4$ διαστάσεων.
 
-Γενικά πάνω από <img src="https://render.githubusercontent.com/render/math?math=2"> διαστάσεων πίνακες δεν συνηθίζουμε να χρησιμοποιούμαι.
+Γενικά πάνω από $2$ διαστάσεων πίνακες δεν συνηθίζουμε να χρησιμοποιούμαι.
 
-Στην **C** μπορούμε πολύ εύκολα να δημιουργήσουμε έναν πίνακα <img src="https://render.githubusercontent.com/render/math?math=2"> διαστάσεων, η σύνταξη είναι πολύ παρόμοια με την σύνταξη για την δημιουργία ενός μονοδιάστατου πίνακα.
+Στην **C** μπορούμε πολύ εύκολα να δημιουργήσουμε έναν πίνακα $2$ διαστάσεων, η σύνταξη είναι πολύ παρόμοια με την σύνταξη για την δημιουργία ενός μονοδιάστατου πίνακα.
 
 ```C
 // creating a 2 dimensional array
 int checkboard[8][8]
 ```
 
-Μπορούμε να σκεφτούμε τους δισδιάστατους πίνακες ώς μία σκακιέρα με <img src="https://render.githubusercontent.com/render/math?math=x"> γραμμές και <img src="https://render.githubusercontent.com/render/math?math=y"> στήλες. Στην περίπτωση μας φτιάξαμε έναν πίνακα με <img src="https://render.githubusercontent.com/render/math?math=8"> γραμμές και <img src="https://render.githubusercontent.com/render/math?math=8"> στήλες.
+Μπορούμε να σκεφτούμε τους δισδιάστατους πίνακες ώς μία σκακιέρα με $x$ γραμμές και $y$ στήλες. Στην περίπτωση μας φτιάξαμε έναν πίνακα με $8$ γραμμές και $8$ στήλες.
 
 ## Arrays as Function Arguments
 
-Το να ορίσουμε πίνακες ως παραμέτρους είναι πολύ απλό. Η συνάρτηση πρέπει να είναι **prototyped** και να περιέχει τον πίνακα.
+Το να ορίσουμε πίνακες ως ορίσματα είναι πολύ απλό. Απλά φτιάχνουμε μία συνάρτηση με όρισμα τον πίνακα μας.
 
 Όταν καλούμε την συνάρτηση αυτή για να περάσουμε έναν πίνακα που θέλουμε δεν περιλαμβάνουμε brackets `[]`.
 
@@ -69,8 +69,8 @@ int main(void)
     // creating a simple array with 3 values
     int score[] = {130, 46, 149};
     
-    // calling Something function and passing the score array to it
-    Something(score[1]);
+    // calling Something function and passing the entire score array to it
+    Something(score);
 }
 
 void Something(int array[])
@@ -151,7 +151,9 @@ int main(void)
     {
         printf("array[%d] = %d\n", i, array[i]);
     }
-}
+	
+	  return 0;
+} // End of main
 
 void Swap(int *array_value_1, int *array_value_2)
 {
@@ -167,7 +169,7 @@ void SelectionSort(int array[], int length_of_array)
         int small = i;
         for(int j = i + 1; j < length_of_array; ++j)
         {
-            // Find the smallest element of the array
+	          // Find the smallest element of the array
             if(array[j] < array[small]) 
             {
                 small = j;
@@ -176,7 +178,7 @@ void SelectionSort(int array[], int length_of_array)
 
         if(small != i)
         {
-            Swap(&array[i], &array[small]); // Call function to swap the values
+	          Swap(&array[i], &array[small]); // Call function to swap the values
         }
     }
 }
@@ -184,7 +186,7 @@ void SelectionSort(int array[], int length_of_array)
 
 Όπως είναι φανερό ο αλγόριθμος του **Selection Sort** δεν είναι πολύ μεγάλος και δεν είναι δύσκολος στην κατανόηση. Οπότε αν θέλουμε να ταξινομήσουμε έναν πίνακα που δεν έχει υπερβολικά μεγάλο αριθμό στοιχείων τότε μπορούμε εύκολα με τον Selection Sort.
 
-**Σημείωση**: Για την υλοποίηση της συνάρτησης `Swap` χρησιμοποίησα **pointers** επειδή όμως δεν τους έχουμε μάθει ακόμα μπορεί να έχετε μπερδευτεί. Θα σας πρότεινα να βγάλετε την συνάρτηση `Swap` εντελώς, ως αποτέλεσμα να μην χρειαστούμε pointers.
+**Σημείωση**: Για την υλοποίηση της συνάρτησης `Swap` χρησιμοποίησα **pointers** και επειδή δεν τους έχουμε μάθει ακόμα μπορεί να έχετε μπερδευτεί. Θα σας πρότεινα να βγάλετε την συνάρτηση `Swap` εντελώς, ως αποτέλεσμα να μην χρειαστούμε pointers.
 
 ```C
 void SelectionSort(int array[], int length_of_array)
@@ -213,6 +215,6 @@ void SelectionSort(int array[], int length_of_array)
 ```
 Προφανώς το αποτέλεσμα και στις δύο περιπτώσεις είναι ίδιο.
 
-![selection_sort.png](https://github.com/unipi-projects/extras/blob/main/Languages/C/img/Arrays/selection_sort.png)
+![selection_sort.png](/home/apo/Documents/Languages/C/img/Arrays/selection_sort.png)
 
-[Back: Revisiting Types](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingTypes/README.md)
+[Back: Revisitng Types](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingTypes/README.md)
