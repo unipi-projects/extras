@@ -17,3 +17,4 @@
 * [Revisiting Main](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingMain/README.md)
 * [Revisiting Types](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingTypes/README.md)
 * [Arrays](https://github.com/unipi-projects/extras/blob/main/Languages/C/Arrays/README.md)
+* [Pointers](https://github.com/unipi-projects/extras/blob/main/Languages/C/Pointers/README.md)
