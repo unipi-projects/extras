@@ -128,4 +128,4 @@ void swap(int *x, int *y)
 
 Στέλνουμε την διεύθηνση της κάθε μεταβλητής στην συνάρτηση `swap` όπου τις λαμβάνουν τα όρισματα που έχουμε θέσει και είναι προφανώς `pointers` καθώς για τις διευθήνσεις χρειαζόμαστε `pointers`.
 
-[Back: Arrays]()
+[Back: Arrays](https://github.com/unipi-projects/extras/blob/main/Languages/C/Arrays/README.md)
