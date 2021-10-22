@@ -218,3 +218,5 @@ void SelectionSort(int array[], int length_of_array)
 ![selection_sort.png](https://github.com/unipi-projects/extras/blob/main/Languages/C/img/Arrays/selection_sort.png)
 
 [Back: Revisiting Types](https://github.com/unipi-projects/extras/blob/main/Languages/C/RevisitingTypes/README.md)
+
+[Next: Pointers](https://github.com/unipi-projects/extras/blob/main/Languages/C/Pointers/README.md)
