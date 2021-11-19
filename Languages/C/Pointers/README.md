@@ -89,7 +89,7 @@ int *p = &num;
 
 *p = 18; // changing the value of num to 18
 
-printf("%d\n", *p);  // printing out the value of *p (18)
+printf("%d\n", num);  // printing out the new value of num
 ```
 
 Επειδή έχουμε την διεύθηνση της μεταβλητής `num` σημαίνει ότι μπορούμε να της αλλάξουμε και την τιμή. Μερικές φορές είναι λίγο επικύνδηνο καθώς μπορούμε να ξεχάσουμε ότι έχουμε αυτή την δυνατότητα οπότε θα ήταν καλό να είμαστε πολύ προσεκτικοί όταν κάνουμε `dereferencing` έναν `pointer`.
